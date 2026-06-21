@@ -18,8 +18,7 @@
       "listen_port": 8081,
       "users": [
         {
-          "uuid": "2804db30-452f-4c32-b604-edeca6992ca8",
-          "name": "user1"
+          "uuid": "2804db30-452f-4c32-b604-edeca6992ca8"
         }
       ],
       "transport": {
